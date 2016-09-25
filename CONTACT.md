@@ -1,3 +1,5 @@
+![Perceive Logo](https://github.com/PerceiveDev/PerceiveResources/raw/master/branding/logo_plus_slogan.png)
+
 # Contact Us
 If you want to contact us to have a plugin made, please submit a [valid plugin request](https://bukkit.org/threads/read-me-first-plugin-requests-guide.81209/) on the [Bukkit forums](https://bukkit.org/forums/plugin-requests.96/).
 
