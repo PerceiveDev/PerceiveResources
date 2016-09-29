@@ -19,7 +19,7 @@ Fill in the description however you want. The convention of our team is to put t
 
 Set the *Source Code Management* to Git and fill in the repository URL:
 
-![Step 4](https://github.com/PerceiveDev/PerceiveResources/raw/master/jenkins/new-project/step1.png)
+![Step 4](https://github.com/PerceiveDev/PerceiveResources/raw/master/jenkins/new-project/step4.png)
 
 <hr/>
 
